@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhettoHoops", "GhettoHoops.csproj", "{EF9AB258-2EAE-E524-B011-4491F1530F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhettoHoops.Editor", "GhettoHoops.Editor.csproj", "{4C4809E6-4E03-2A22-BA42-C11C07038BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9AB258-2EAE-E524-B011-4491F1530F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9AB258-2EAE-E524-B011-4491F1530F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9AB258-2EAE-E524-B011-4491F1530F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9AB258-2EAE-E524-B011-4491F1530F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4809E6-4E03-2A22-BA42-C11C07038BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4809E6-4E03-2A22-BA42-C11C07038BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4809E6-4E03-2A22-BA42-C11C07038BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4809E6-4E03-2A22-BA42-C11C07038BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
